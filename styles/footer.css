@@ -1,0 +1,212 @@
+footer{   
+    display: block;
+    width: 100%;
+}
+.fix-ft{
+    max-width: 1110px;
+    margin: 0 auto;
+      position: relative;
+    top: 160px;
+    
+}
+.application-block-ft{
+background: #333333;
+border-radius: 25px;
+    padding: 46px 95px;
+/*    margin-bottom: 20px;*/
+}
+.application-block-ft-in-center{
+   
+}
+.application-paragraph{
+font-family: "Roboto";
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 100%;
+    margin-bottom: 30px;
+
+color: #FFFFFF;
+}
+.phone-number-block{
+width: 100%;
+background: #FFFFFF;
+border-radius: 3px;
+    padding: 17px 20px;
+    outline: none;
+    border: 0;
+}
+.form-margin{
+    margin-top: 20px;
+}
+.name-block{
+    width: 60%;
+    height: 50px;
+    border-radius: 3px;
+    padding: 14px 20px;
+    border: none;
+    line-height: 100%;
+    float: left;
+    outline: none;
+    border: 0;
+}
+.ft-button{
+    width: 37%;
+background: #F2B705;
+border-radius: 3px;
+    font-size: 16px;
+line-height: 100%;
+     border: none;
+    padding: 17px 39px;
+    margin-left: 3%;
+    outline: none;
+    border: 0;
+}
+.info-contacts-block{
+    margin-top: 20px;
+}
+.info-contacts-left{
+    font-family: "Roboto";
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 100%;
+color: #FFFFFF;
+opacity: 0.5;
+}
+.info-contacts-right{
+     font-family: "Roboto";
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 100%;
+color: #F2B705;
+margin-left: 5px;
+opacity: 0.5;
+}
+.info-contacts-right:hover{
+    text-decoration: none;
+}
+.social-network-block{
+    min-height: 318px;
+padding: 40px;
+background: #FEF8E6;
+border-radius: 25px;
+}
+.social-network-block-center{
+    
+}
+.social-network-parapgraph{
+    width: 100%;
+font-family: "Roboto";
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 100%;
+color: #000000;
+}
+.social-block{
+	display: flex;
+    margin-top: 19px;
+    width: 100%;
+    height: 50px;
+}
+.social-network-facebook{
+height: 50px;
+background: #f6f1de;
+border-radius: 3px;
+    padding: 13px 51px;
+}
+.social-network-instagramm{
+height: 50px;
+background: #f6f1de;
+border-radius: 3px;
+    margin-left: 15px;
+    padding: 16px 5px;
+}
+.social-network-youtube{	
+height: 50px;
+background: #f6f1de;
+border-radius: 3px;
+    margin-left: 15px;
+    padding: 16px 5px;
+}
+.social-network-icon-facebook{
+    height: 18px;
+}
+.social-network-icon-instagramm{
+    height: 18px;
+}
+.social-network-icon-youtube{
+    height: 18px;
+}
+.contact-block-ft{
+    width: 100%;
+    margin-top: 34px;
+}
+.ft-contact-text{
+font-family: "Roboto";
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 100%;
+color: #000000;
+}
+.ft-contact-nomer{
+font-family: "Roboto";
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 100%;
+}
+.ft-contact-email{
+    margin-left: 30px;
+font-family: "Roboto";
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 100%;
+}
+.parallax-block-ft{
+    width: 100%;
+    margin-top: 35px;
+}
+.ft-parallax-note{
+	margin: 0px;
+font-family: "Roboto";
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 100%;
+opacity: 0.15;
+}
+.parallax-logo{
+    margin-top: -5px;
+    height: 16px;
+    margin-left: 10px;
+    opacity: 0.9
+}
+
+.social-network-icon {
+    display: flex;
+    flex-grow: 1;
+    margin-right: 15px;
+    align-items: center;
+    justify-content: center;
+    height: 50px;
+    background: rgb(0, 0, 0, 0.03);
+    border-radius: 3px;
+}
+
+.social-network-icon:last-child {
+    margin-right: 0;
+}
+
+.social-network-icon:hover {
+    background: rgb(0, 0, 0, 0.1);
+}
+
+.footer {
+	    margin: 30px 0;
+}
+

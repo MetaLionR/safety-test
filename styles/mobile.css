@@ -1,0 +1,112 @@
+@media only screen and (min-width : 320px) and (max-width : 1200px){
+    .menu-nav-block{
+        margin-left: 20px;
+    }
+    .header-block-info{
+         margin: 80px 20px;
+    }
+	.contacts-block-info{
+		flex-direction: column;
+	}
+	.ft-contact-email{
+		margin: 15px 0px 0px 0px;
+	}
+    .training-text{
+        font-size: 16px;
+    }
+    .bg-span-elements-tools{
+		overflow: hidden;
+    }
+    .application-block-ft{
+        padding: 40px;
+		margin-bottom: 30px;
+    }
+	.training-foto-bg{
+		margin-top: -50px;
+		overflow: hidden;
+	}
+    .social-network-facebook{
+        width: 28.5%;
+        padding: 10px 0px 10px 10.8%;
+    }
+    .social-network-instagramm{
+         width: 28.5%;
+        padding: 10px 0px 10px 10.5%;
+    }
+    .social-network-youtube{
+         width: 28.5%;
+        padding: 10px 0px 10px 10.5%;
+    }
+}
+@media only screen and (min-width : 320px) and (max-width : 576px){
+    .training-foto-bg{
+        display: none;
+    }
+    .bg-span-elements-tools{
+        display: none;
+    }
+    .ft-button{
+        padding: 17px 18px;
+    }
+}
+@media only screen and (min-width : 320px) and (max-width : 768px){
+   .menu-mobile{
+        display: block;
+    }
+    .menu{
+        display: none;
+    }
+	.bg-span-elements-tools{
+		display: none;
+	}
+	.training-foto-bg{
+		display: none;
+	}
+	.social-network-block{
+		margin-top: 30px;
+	}
+	.header{
+	margin-top: 70px;
+	}
+}
+@media only screen and (min-width : 320px) and (max-width : 475px){
+	.name-block{
+		width: 100%;
+	}
+	.ft-button{
+		width: 100%;
+		margin: 15px 0px 0px 0px;
+	}
+	.info-contacts-left{
+		margin: 0px;
+	}
+	.info-contacts-right{
+		margin: 15px 0px 0px 0px;
+	}
+	.ft-contact-email{
+		margin: 15px 0px 0px 0px;
+	}
+	.parallax-logo{
+		margin: 10px 0px 0px 0px;
+	}
+	.parallax-block-ft{
+		margin-top: 20px;
+	}
+	.info-contacts-block{
+		flex-direction: column;
+	}
+	.contacts-block-info{
+		flex-direction: column;
+	}
+	.parallax-block-ft{
+		flex-direction: column;
+	}
+	.training-info-block-position{
+		margin: 40px;
+	}
+}
+@media (max-width: 992px) {
+	.training-info-block-position{
+		margin: 40px 0px 40px 40px;
+	}
+}

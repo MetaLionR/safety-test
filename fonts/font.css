@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'RF Dewi Expanded';
+    src: url('RFDewiExpanded-Bold.eot');
+    src: local('RF Dewi Expanded Bold'), local('RFDewiExpanded-Bold'),
+        url('RFDewiExpanded-Bold.eot?#iefix') format('embedded-opentype'),
+        url('RFDewiExpanded-Bold.woff2') format('woff2'),
+        url('RFDewiExpanded-Bold.woff') format('woff'),
+        url('RFDewiExpanded-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}

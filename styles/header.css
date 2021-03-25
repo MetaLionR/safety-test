@@ -1,0 +1,77 @@
+body{
+    margin: 0px;
+    background-color: #FAFAFA;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    opacity: 1;
+    text-decoration: none;
+}
+@import url{
+	
+}
+.header{
+    position: relative;
+    max-width: 1110px;
+    width: 100%;
+    min-height: 400px;
+    margin: 0 auto;
+    overflow: hidden;
+     background-color: #FEF8E6;
+}
+.bg-header-block{
+   
+}
+.header-block-info{
+    max-width: 400px;
+    margin: 89px 95px;
+}
+.header-block-online-text{
+width: 100%;;
+font-family: "Roboto";
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 100%;
+/* identical to box height, or 14px */
+    opacity: 0.5;
+}
+.header-block-online-paragraph{
+font-family: "Roboto";
+font-style: normal;
+font-weight: bold;
+font-size: 28px;
+line-height: 140%;
+/* or 39px */
+}
+.header-block-button-access{
+	display: block;
+    width: 172px;
+    border: 1px solid #000000;
+box-sizing: border-box;
+border-radius: 5px;
+    color: #000000;
+        text-align: center;
+    padding: 12.6px 0px 12.6px 0px;
+    font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 100%;
+	transition: 0.4s;
+}
+.header-block-button-access:hover{
+	background-color: #000000;
+	color: #ffffff;
+	
+}
+.bg-span-elements-tools{
+    position: absolute;
+height: 541.68px;
+left: 495px;
+top: 0px;
+    background-size: 100% 100%;
+}

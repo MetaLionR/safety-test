@@ -1,0 +1,89 @@
+.menu-mobile{
+    width: 100%;
+    position: fixed;
+	top: 0px;
+	z-index: 9999;
+	background: #ffffff;
+}
+.menu-botton-mobile{
+    width: 40px;
+    height: 40px;
+border-radius: 5px;
+    margin: 10px 0px 10px 15px;
+    padding: 13px 10px
+}
+.menu-botton-mobile:hover{
+	background: rgb(242,242,242);
+}
+.menu-botton-icon-mobile{
+    display: block;
+    background-image: url(../images/dist/icons/menu-button.svg);
+    width: 20px;
+    height: 14px;
+    background-size: 100% 100%;
+}
+.logo-menu-mobile{
+    display: block;
+    background-image: url(../images/logo.svg);
+    height: 40px;
+    width: 51.6px;
+    background-size: 100% 100%;
+}
+.language-menu-mobile{
+    display: block;
+    float: right;
+    padding: 12px 9px 12px 10px;
+    margin: 15px 15px;
+    font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 100%;
+color: #000000;
+}
+.language-menu-mobile:hover{
+	background: rgb(242,242,242);
+}
+.block-account-mobile{
+	display: block;
+	margin: 15px 0px;
+	padding: 12px 13px;
+	float: right;
+}
+.block-account-mobile:hover{
+	background: rgb(242,242,242);
+}
+.block-account-mobile-icon{
+    display: block;
+    width: 14.32px;
+    height: 16px;
+    background-size: 100% 100%;
+    background-image: url(../images/dist/icons/account-icon.svg);
+}
+.outgoing-menu-block{
+    display: none;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	position: absolute;
+    top:  89px; 
+	left: 15px;
+    right: 15px;
+	z-index: 99;
+	background-color: #ffffff;
+	border-radius: 5px;
+	overflow: hidden;
+	
+}
+.online-block-info-mobile{
+    width: 100%;
+    padding: 20px 15px 20px 15px;
+    font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 100%;
+color: #000000;
+}
+.online-block-info-mobile:hover{
+    background-color: rgba(0, 0, 0, 0.03);
+}
